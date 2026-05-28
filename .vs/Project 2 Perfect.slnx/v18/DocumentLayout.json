@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\My Projects\\Project 2 Perfect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAB45FC-75FE-4CF1-8D71-FC8F39873677}|Project 2 Perfect\\Project 2 Perfect.vcxproj|C:\\Users\\Lenovo\\Desktop\\My Projects\\Project 2 Perfect\\Project 2 Perfect\\Project 2 Perfect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDAB45FC-75FE-4CF1-8D71-FC8F39873677}|Project 2 Perfect\\Project 2 Perfect.vcxproj|solutionrelative:Project 2 Perfect\\Project 2 Perfect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 2 Perfect.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\My Projects\\Project 2 Perfect\\Project 2 Perfect\\Project 2 Perfect.cpp",
+              "RelativeDocumentMoniker": "Project 2 Perfect\\Project 2 Perfect.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\My Projects\\Project 2 Perfect\\Project 2 Perfect\\Project 2 Perfect.cpp",
+              "RelativeToolTip": "Project 2 Perfect\\Project 2 Perfect.cpp",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAIwPcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T04:08:52.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
